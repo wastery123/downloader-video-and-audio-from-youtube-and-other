@@ -1,1 +1,1 @@
-# downloader-video-and-audio-from-youtube-and-other
+To download absolutely any video, playlist, or audio from YouTube, Rutube, or TikTok, simply run a single .bat file, paste the link to the video, and wait for the download to finish. Everything you download will be saved into organized folders within the project directory.
